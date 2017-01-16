@@ -1,0 +1,49 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+    .ph_number {
+        display: none;
+    }
+    .number {
+        display: block;
+        width: 120px;
+        margin-top: 10px;
+    }
+    .lg_phone {
+        display: block;
+        cursor:pointer;
+    }
+    .others .other_margin {
+        margin-left: 0px;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+    .masthead {
+        text-align: center;
+        margin-top: 230px;
+    }
+
+
+}
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+    nav#nav-mobile a {
+        display: block;
+        color: white;
+        padding: 10px 0;
+    }
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}

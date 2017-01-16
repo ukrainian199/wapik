@@ -1,0 +1,76 @@
+/* font-family: "Merriweather Light"; */
+@font-face {
+	font-family: "Merriweather Light";
+	src: url("../fonts/Merriweather Light/Merriweather Light.eot");
+	src: url("../fonts/Merriweather Light/Merriweather Light.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Merriweather Light/Merriweather Light.woff") format("woff"),
+	url("../fonts/Merriweather Light/Merriweather Light.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "Montserrat Regular"; */
+@font-face {
+	font-family: "Montserrat Regular";
+	src: url("../fonts/Montserrat Regular/Montserrat Regular.eot");
+	src: url("../fonts/Montserrat Regular/Montserrat Regular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Montserrat Regular/Montserrat Regular.woff") format("woff"),
+	url("../fonts/Montserrat Regular/Montserrat Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "Proxima Nova"; */
+@font-face {
+	font-family: "Proxima Nova";
+	src: url("../fonts/Proxima Nova/Proxima Nova.eot");
+	src: url("../fonts/Proxima Nova/Proxima Nova.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Proxima Nova/Proxima Nova.woff") format("woff"),
+	url("../fonts/Proxima Nova/Proxima Nova.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "Proxima Nova Bold"; */
+@font-face {
+	font-family: "Proxima Nova Bold";
+	src: url("../fonts/Proxima Nova Bold/Proxima Nova Bold.eot");
+	src: url("../fonts/Proxima Nova Bold/Proxima Nova Bold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Proxima Nova Bold/Proxima Nova Bold.woff") format("woff"),
+	url("../fonts/Proxima Nova Bold/Proxima Nova Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "RobotoLight"; */
+@font-face {
+	font-family: "RobotoLight";
+	src: url("../fonts/RobotoLight/RobotoLight.eot");
+	src: url("../fonts/RobotoLight/RobotoLight.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoLight/RobotoLight.woff") format("woff"),
+	url("../fonts/RobotoLight/RobotoLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "RobotoMedium"; */
+@font-face {
+	font-family: "RobotoMedium";
+	src: url("../fonts/RobotoMedium/RobotoMedium.eot");
+	src: url("../fonts/RobotoMedium/RobotoMedium.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoMedium/RobotoMedium.woff") format("woff"),
+	url("../fonts/RobotoMedium/RobotoMedium.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "RobotoRegular"; */
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+	url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
